@@ -24,5 +24,9 @@ When Idle: ["Casual Gaming 🕹️", "Chilling & Listening to Music 🎧"]
 ### 🎮 Off-the-Clock
 
 <p align="center">
-  <img src="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
