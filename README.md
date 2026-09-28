@@ -25,21 +25,16 @@ When Idle: ["Casual Gaming 🕹️", "Chilling & Listening to Music 🎧"]
 ### 🎆 My Stats & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankatuladhar&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Priyanka's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=priyankatuladhar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Priyanka's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankatuladhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankatuladhar&theme=vision-friendly-dark&hide_border=true" alt="GitHub Commit Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=priyankatuladhar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
-
 ### 💬 Let's Connect!
 
 <p align="center"><a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
