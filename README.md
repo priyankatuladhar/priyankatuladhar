@@ -23,7 +23,22 @@ When Idle: ["Casual Gaming 🕹️", "Chilling & Listening to Music 🎧"]
 <p align="center"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></p>
 
 ### 🎆 My Stats & Contribution Graph
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyankatuladhar&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Priyanka's GitHub Stats" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankatuladhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="48%"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankatuladhar&theme=vision-friendly-dark&hide_border=true" alt="GitHub Commit Streak" /></p><p align="center"><img src="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankatuladhar&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Priyanka's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankatuladhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankatuladhar&theme=vision-friendly-dark&hide_border=true" alt="GitHub Commit Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
 
 ### 💬 Let's Connect!
 
