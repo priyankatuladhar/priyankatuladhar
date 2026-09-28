@@ -17,7 +17,7 @@ Focus: "Building resilient cloud infrastructure & automated CI/CD pipelines"
 Cloud Environments: ["AWS 🌐", "Azure 🔷"]
 Deep Diving Into: "Kubernetes, GitOps & Infrastructure as Code ☸️"
 When Idle: ["Casual Gaming 🕹️", "Chilling & Listening to Music 🎧"]
-
+```
 
 
 ### 🎮 Off-the-Clock
