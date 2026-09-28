@@ -27,12 +27,3 @@ When Idle: ["Casual Gaming 🕹️", "Chilling & Listening to Music 🎧"]
 <p align="center">
   <img src="https://github.com/priyankatuladhar/priyankatuladhar/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
-
-### 💬 Let's Connect!
-
-<p align="center"><a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-
-### ✍️ Blog Posts
-<!-- Blog-Post-List:Start --><!-- Blog-Post-List:End --><p align="center"><i>"Automating the cloud by day, gaming and chilling by night." ✨</i></p>
