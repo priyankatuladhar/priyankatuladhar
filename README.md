@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <br>
   <img src="https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif" width="100" />
@@ -10,21 +9,11 @@
 </h1>
 </div>
 
-### 👩‍💻 About Me:
+### 👩‍💻 About Me
 
-- 🌱 Exploring Devops
-- Looking into Kubernetes
-
----
-
-### 🎆 My Stats:
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankatuladhar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-### ✍️ Blog Posts:
-
-<!-- Blog-Post-List:Start -->
-<!-- Blog-Post-List:End -->
+```yaml
+Role: "DevOps & Cloud Engineer ☁️"
+Focus: "Building resilient cloud infrastructure & automated CI/CD pipelines"
+Cloud Environments: ["AWS 🌐", "Azure 🔷"]
+Deep Diving Into: "Kubernetes, GitOps & Infrastructure as Code ☸️"
+When Idle: ["Casual Gaming 🕹️", "Chilling & Listening to Music 🎧"]
