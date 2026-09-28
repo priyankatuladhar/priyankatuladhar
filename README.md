@@ -1,13 +1,14 @@
 <div id="header" align="center">
   <br>
-  <img src="[https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif](https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif)" width="100" />
+  <img src="https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif" width="100" />
 <br>
-  <img src="[https://komarev.com/ghpvc/?username=priyankatuladhar&style=flat-square&color=blue](https://komarev.com/ghpvc/?username=priyankatuladhar&style=flat-square&color=blue)" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=priyankatuladhar&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi!
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 
 ### 👩‍💻 About Me
 
